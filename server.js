@@ -25,9 +25,9 @@ app.use(express.json());
 // Define the list of allowed origin
 const allowedOrigins = [
   "https://artnakkk-frontend.vercel.app",
-  "https://artnakkk-frontend-zombox0633s-projects.vercel.app/",
-  "https://artnakkk-frontend-user-eta.vercel.app/",
-  "https://artnakkk-frontend-user-zombox0633s-projects.vercel.app/",
+  "https://artnakkk-frontend-zombox0633s-projects.vercel.app",
+  "https://artnakkk-frontend-user-eta.vercel.app",
+  "https://artnakkk-frontend-user-zombox0633s-projects.vercel.app",
   "http://localhost:5173", // For local development
   "http://localhost:5174", // For local development
   "http://localhost:5175", // For local development
